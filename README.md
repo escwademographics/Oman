@@ -1,2 +1,2 @@
-# Egypt
-Egypt Questionnaire Web App
+# Oman
+Oman Questionnaire Web App
